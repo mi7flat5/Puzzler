@@ -66,10 +66,9 @@ Do you feel the appropriate size? <br>"Seems like a fantasy place so I’m not s
 
 
 
-<div align ="center">
 <h1><strong>Development</strong></h1>
-</div>
-<div align ="center">
+
+
 <p>Setting scale by loading door into application and comparing it to real doors.</p>
 <img src="0.png">
 <br><br>
@@ -88,16 +87,16 @@ Do you feel the appropriate size? <br>"Seems like a fantasy place so I’m not s
 <p>Ready to play! Many lighting adjustments and optimizations were done to increase framerate on  device. </p>
 <img src="6.png">
 <br><br>
-<div/>
 
 
-<div align ="center">
+
+
 <h1><strong>Result</strong></h1>
 <p>One level of the puzzler is complete, and can easily be extended to travel to different areas of the environment to complete other puzzles; However, The user 
 is satisfied with this application because it allowed them to experience VR in an engaging way for the first time without requireing much time.</p>
-</div>
 
-<div align ="center">
+
+
 <h1><strong>Other Projects</strong></h1>
 <p>Check out my other projects at <a href ="https://github.com/mi7flat5">www.github.com/mi7flat5</a>, and keep an eye on <a href ="https://mi7flat5.github.io">mi7flat5.github.io</a> for other project pages like this one.</p>
-</div>
+
