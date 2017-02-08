@@ -1,5 +1,7 @@
 ![alt tag](marta.png)
-![alt tag](PuzzlerDoc003.pdf)
+![alt tag](sketch1.png)
+![alt tag](sketch2.png)
+![alt tag](sketch3.png)
 ![alt tag](1.png)
 ![alt tag](2.png)
 ![alt tag](3.png)
