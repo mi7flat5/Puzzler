@@ -10,9 +10,7 @@ src="gameplay.webm">
 
 <h1><strong>Process</strong></h1>
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;Persona<h2>
-
-<p>Profile of the user that application was targeted at:</p>
+<p>Profile of the user that the application was targeted at:</p>
 
 <img src="marta.png">
 
@@ -20,7 +18,7 @@ src="gameplay.webm">
 
 <img src="sketch1.png">
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;UI Design</h2>
+<h2>&nbsp;&nbsp;&nbsp;&nbsp;UI Design Sketches</h2>
 
 <img src="sketch2.png">
 <img src="sketch3.png">
