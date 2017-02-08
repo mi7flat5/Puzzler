@@ -2,39 +2,39 @@
 
 
 
- <div align ="center">
+
  <h1><b>Puzzler<b>
  <h2>Statement of purpose </h2>
  <p> Puzzler is a VR app that allows users to experience VR in a way that does not require a large time investment to enjoy.</p> 
 <iframe width="400" height="300"
 src="gameplay.webm">
 </iframe>
-<div></div>
-<div align ="center">
+
+
 <h1><strong>Process</strong></h1>
-</div>
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;Persona<h2>
-<body>
+
 <p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Profile of the user that application was targeted at:</p>
-<div align ="center">
+
 <img src="marta.png">
-</div>
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;Design sketches</h2>
-<div align ="center">
+
 <img src="sketch1.png">
-</div>
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;UI Design</h2>
-<div align ="center">
+
 <img src="sketch2.png">
 <img src="sketch3.png">
-</div>
 
-<div align ="center">
+
+
 <h1><strong>User Tests</strong></h1>
-</div>
 
 
-<div id="wrapper">
+
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 1</h2>
  	<p>What is the mood?<br>
 	
@@ -48,11 +48,10 @@ src="gameplay.webm">
 		&nbsp;&nbsp;&nbsp;&nbsp;"Yes some walls not quite together, some flickering in the corners, &nbsp;&nbsp;&nbsp;&nbsp;and it seems overall a 	
 		a bit too dark." <br><br></p>
 	<p>Made multiple lighting and geometric adjustments to adress users concer. </p>
-	</div>
+	
 
 
 
-<div id="wrapper">
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 2</h2>
 	<p>What do you think will happen if you click the button?<br>
 		&nbsp;&nbsp;&nbsp;&nbsp;"The game will start."<br>
@@ -60,9 +59,9 @@ src="gameplay.webm">
 &nbsp;&nbsp;&nbsp;&nbsp;User feels the menus are easy to understand, but is a little confused about where to look to click the button, added the GVR reticle and the problem is solved.  </p>
 
 
-</div>
 
-<div id="wrapper">
+
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 3</h2>
 	<p>	Can you describe the movement?<br>
 		&nbsp;&nbsp;&nbsp;&nbsp;"I just zipped into the room."<br>
@@ -74,8 +73,8 @@ src="gameplay.webm">
 		&nbsp;&nbsp;&nbsp;&nbsp;"I don’t think so, I just didn’t expect it at first." <br><br>
 	<p>Adjusted speed moving from menu into puzzle.<p/>
 
-</div>
-<div id="wrapper">
+
+
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 4</h2>
 <p>Is the object of the game clear, and is it easy to understand the steps required to complete the puzzle? <br>
 		&nbsp;&nbsp;&nbsp;&nbsp;"Yes, pretty clear, after a few minutes, I didn't understand at first but I think the ball should flash &nbsp;&nbsp;&nbsp;&nbsp;brighter."<br>
@@ -88,7 +87,7 @@ src="gameplay.webm">
  
 
 
-</div>
+
 
 
 
