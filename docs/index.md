@@ -51,7 +51,7 @@ Do you feel the appropriate size? <br>"Seems like a fantasy place so I’m not s
 
 
 
-<h3>User Test 4</h3>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 4</h3>
 <p>Is the object of the game clear, and is it easy to understand the steps required to complete the puzzle? <br>"Yes, pretty clear, after a few minutes, I didn't understand at first but I think the ball should flash brighter."<br>Is there any way to make the intent of the puzzle more clear?<br>"Not that I can think of, I figured it out eventually."<br>Are there any comments, concerns or suggestions?<br>"I think the movement going back to the start menu is too fast. Also the crickets and music are too loud for me. Other than those I think it is really neat."<br><br><p>Adjusted audio levels, speed of movement from reset to start, and changed the ball flash color to address users concerns. </p>
 
  
