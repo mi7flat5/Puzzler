@@ -3,8 +3,8 @@
 
 
 
- <h1><b>Puzzler<b>
- <h2>Statement of purpose </h2>
+<h1>Puzzler</h1>
+ <h3>Statement of purpose </h3>
  <p> Puzzler is a VR app that allows users to experience VR in a way that does not require a large time investment to enjoy.</p> 
 <iframe width="400" height="300"
 src="gameplay.webm">
@@ -35,7 +35,7 @@ src="gameplay.webm">
 
 
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 1</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 1</h3>
 <p>What is the mood?<br>&nbsp;&nbsp;&nbsp;&nbsp;"Dark and spooky."<br>	Is everything comfortably visible? <br>
 &nbsp;&nbsp;&nbsp;&nbsp;"Yes the room is in view, mountains behind but nothing interesting to &nbsp;&nbsp;&nbsp;&nbsp;see there."<br>
 Do you feel the appropriate size? <br>&nbsp;&nbsp;&nbsp;&nbsp;"Seems like a fantasy place so I’m not sure what’s appropriate, I feel &nbsp;&nbsp;&nbsp;&nbsp;a little shorter than&nbsp;&nbsp;&nbsp;&nbsp;What I am. " <br>Is there anything distracting from the orbs? <br>
@@ -44,7 +44,7 @@ Do you feel the appropriate size? <br>&nbsp;&nbsp;&nbsp;&nbsp;"Seems like a fant
 
 
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 2</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 2</h3>
 <p>What do you think will happen if you click the button?<br>&nbsp;&nbsp;&nbsp;&nbsp;"The game will start."<br>
 Comments or suggestions reguarding the menus?<br>&nbsp;&nbsp;&nbsp;&nbsp;User feels the menus are easy to understand, but is a little confused about where to look to click the button, added the GVR reticle and the problem is solved.  </p>
 
@@ -52,7 +52,7 @@ Comments or suggestions reguarding the menus?<br>&nbsp;&nbsp;&nbsp;&nbsp;User fe
 
 
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 3</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 3</h3>
 <p>Can you describe the movement?<br>&nbsp;&nbsp;&nbsp;&nbsp;"I just zipped into the room."<br>
 Did the movement cause any discomfort?<br>&nbsp;&nbsp;&nbsp;&nbsp;"It made me slightly dizzy for a second."<br>
 Would you be more comfortable with it slower?<br>&nbsp;&nbsp;&nbsp;&nbsp;"No, I like that speed, it was fun." <br>
@@ -60,7 +60,7 @@ Do you think extended exposure to that movement could make you sick?<br>&nbsp;&n
 
 
 
-<h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 4</h2>
+<h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 4</h3>
 <p>Is the object of the game clear, and is it easy to understand the steps required to complete the puzzle? <br>
 		&nbsp;&nbsp;&nbsp;&nbsp;"Yes, pretty clear, after a few minutes, I didn't understand at first but I think the ball should flash &nbsp;&nbsp;&nbsp;&nbsp;brighter."<br>
 		Is there any way to make the intent of the puzzle more clear?<br>
