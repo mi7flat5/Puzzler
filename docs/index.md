@@ -2,15 +2,13 @@
 
 
 
-<div>
-</div>
  <div align ="center">
  <h1><b>Puzzler<b>
  <h2>Statement of purpose </h2>
  <p> Puzzler is a VR app that allows users to experience VR in a way that does not require a large time investment to enjoy.</p> 
 <iframe width="400" height="300"
 src="gameplay.webm">
-
+</iframe>
 <div></div>
 <div align ="center">
 <h1><strong>Process</strong></h1>
