@@ -8,16 +8,17 @@ src="PuzzlerMovemntMechanic.webm">
 <h2>Process
 </h2>
 <h3> Profile<h3>
-![alt tag](marta.png)
-<h3>Design sketches</h3>
-![alt tag](sketch1.png)
-![alt tag](sketch2.png)
-![alt tag](sketch3.png)
+<img src="marta.png">
 
-<h3>Iterationsh</h3>
-![alt tag](1.png)
-![alt tag](2.png)
-![alt tag](3.png)
-![alt tag](4.png)
-![alt tag](5.png)
-![alt tag](6.png)
+<h3>Design sketches</h3>
+<img src="sketch1.png">
+<img src="sketch2.png">
+<img src="sketch3.png">
+
+<h3>Iterations</h3>
+<img src="1.png">
+<img src="2.png">
+<img src="3.png">
+<img src="4.png">
+<img src="5.png">
+<img src="6.png">
