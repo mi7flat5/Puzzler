@@ -1,20 +1,16 @@
 
 
-<html>
-<head>
-  <link rel="stylesheet" href="styles.css">
-</head>
+
 
 <div>
 </div>
  <div align ="center">
- <h1><b>Puzzler<b></h1>
+ <h1><b>Puzzler<b>
  <h2>Statement of purpose </h2>
  <p> Puzzler is a VR app that allows users to experience VR in a way that does not require a large time investment to enjoy.</p> 
 <iframe width="400" height="300"
 src="gameplay.webm">
-</iframe>
-</div>
+
 <div></div>
 <div align ="center">
 <h1><strong>Process</strong></h1>
@@ -79,10 +75,8 @@ src="gameplay.webm">
 	Do you think extended exposure to that movement could make you sick?<br>
 		&nbsp;&nbsp;&nbsp;&nbsp;"I don’t think so, I just didn’t expect it at first." <br><br>
 	<p>Adjusted speed moving from menu into puzzle.<p/>
-</p>
 
 </div>
-
 <div id="wrapper">
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 4</h2>
 <p>Is the object of the game clear, and is it easy to understand the steps required to complete the puzzle? <br>
@@ -94,7 +88,7 @@ src="gameplay.webm">
 <p>Adjusted audio levels, speed of movement from reset to start, and changed the ball flash color to address users concerns. </p>
 
  
-</p>
+
 
 </div>
 
@@ -111,7 +105,7 @@ src="gameplay.webm">
 <p>Partial building used to adjust scale.<p>
 <img src="1.png">
 <br><br>
-<p>Added night skybox with moons to scene to match dark mood.</P>
+<p>Added night skybox with moons to scene to match dark mood.</p>
 <img src="2.png">
 <br><br>
 <p>First positioning of orbs.<p>
@@ -124,7 +118,7 @@ src="gameplay.webm">
 <img src="6.png">
 <br><br>
 <div/>
-</body>
+
 
 <div align ="center">
 <h1><strong>Result</strong></h1>
