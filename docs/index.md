@@ -7,12 +7,12 @@ src="PuzzlerMovemntMechanic.webm">
 ## Process
 ### Profile
 ![alt tag](marta.png)
-## Design sketches
+### Design sketches
 ![alt tag](sketch1.png)
 ![alt tag](sketch2.png)
 ![alt tag](sketch3.png)
 
-## Iterations
+### Iterations
 ![alt tag](1.png)
 ![alt tag](2.png)
 ![alt tag](3.png)
