@@ -36,38 +36,27 @@ src="gameplay.webm">
 
 
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 1</h3>
-<p>What is the mood?<br>"Dark and spooky."<br>	Is everything comfortably visible? <br>
+<p>What is the mood?<br>"Dark and spooky."<br>Is everything comfortably visible? <br>
 "Yes the room is in view, mountains behind but nothing interesting to see there."<br>
-Do you feel the appropriate size? <br>"Seems like a fantasy place so I’m not sure what’s appropriate, I feel a little shorter What I am. " <br>Is there anything distracting from the orbs? <br>
-"Yes some walls not quite together, some flickering in the corners,and it seems overall a bit too dark." <br><br></p><p>Made multiple lighting and geometric adjustments to address users concerns. </p>
+Do you feel the appropriate size? <br>"Seems like a fantasy place so I’m not sure what’s appropriate, I feel a little shorter What I am. "<br>Is there anything distracting from the orbs? <br>"Yes some walls not quite together, some flickering in the corners,and it seems overall a bit too dark." <br><br></p><p>Made multiple lighting and geometric adjustments to address users concerns.</p>
 	
 
 
 
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 2</h3>
-<p>What do you think will happen if you click the button?<br>"The game will start."<br>
-Comments or suggestions reguarding the menus?<br>User feels the menus are easy to understand, but is a little confused about where to look to click the button, added the GVR reticle and the problem is solved.  </p>
+<p>What do you think will happen if you click the button?<br>"The game will start."<br>Comments or suggestions reguarding the menus?<br>User feels the menus are easy to understand, but is a little confused about where to look to click the button, added the GVR reticle and the problem is solved.</p>
 
 
 
 
 
 <h3>&nbsp;&nbsp;&nbsp;&nbsp;User Test 3</h3>
-<p>Can you describe the movement?<br>"I just zipped into the room."<br>
-Did the movement cause any discomfort?<br>"It made me slightly dizzy for a second."<br>
-Would you be more comfortable with it slower?<br>"No, I like that speed, it was fun." <br>
-Do you think extended exposure to that movement could make you sick?<br>"I don’t think so, I just didn’t expect it at first." <br><br><p>Adjusted speed moving from menu into puzzle.<p/>
+<p>Can you describe the movement?<br>"I just zipped into the room."<br>Did the movement cause any discomfort?<br>"It made me slightly dizzy for a second."<br>Would you be more comfortable with it slower?<br>"No, I like that speed, it was fun."<br>Do you think extended exposure to that movement could make you sick?<br>"I don’t think so, I just didn’t expect it at first." <br><br><p>Adjusted speed moving from menu into puzzle.<p/>
 
 
 
 <h3>User Test 4</h3>
-<p>Is the object of the game clear, and is it easy to understand the steps required to complete the puzzle? <br>
-		"Yes, pretty clear, after a few minutes, I didn't understand at first but I think the ball should flash brighter."<br>
-		Is there any way to make the intent of the puzzle more clear?<br>
-		"Not that I can think of, I figured it out eventually."<br>
-	Are there any comments, concerns or suggestions?<br>
-"I think the movement going back to the start menu is too fast. Also the crickets and music are too loud for me. Other than those I think it is really neat."<br><br>
-<p>Adjusted audio levels, speed of movement from reset to start, and changed the ball flash color to address users concerns. </p>
+<p>Is the object of the game clear, and is it easy to understand the steps required to complete the puzzle? <br>"Yes, pretty clear, after a few minutes, I didn't understand at first but I think the ball should flash brighter."<br>Is there any way to make the intent of the puzzle more clear?<br>"Not that I can think of, I figured it out eventually."<br>Are there any comments, concerns or suggestions?<br>"I think the movement going back to the start menu is too fast. Also the crickets and music are too loud for me. Other than those I think it is really neat."<br><br><p>Adjusted audio levels, speed of movement from reset to start, and changed the ball flash color to address users concerns. </p>
 
  
 
