@@ -16,6 +16,7 @@ src="PuzzlerMovemntMechanic.webm">
 <img src="sketch3.png">
 
 <h3>Iterations</h3>
+<img src="0.png">
 <img src="1.png">
 <img src="2.png">
 <img src="3.png">
