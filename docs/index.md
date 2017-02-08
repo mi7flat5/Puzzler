@@ -1,7 +1,7 @@
 <h1>Puzzler</h1>
-<h2>Statement of purpose
-  Puzzler is a VR app that allows users to experience a small VR experience that does not require a large time investment to enjoy. 
- </h2>
+<h2>Statement of purpose </h2>
+ <p> Puzzler is a VR app that allows users to experience a small VR experience that does not require a large time investment to enjoy.</p> 
+
 <iframe width="850" height="300"
 src="PuzzlerMovemntMechanic.webm">
 </iframe>
