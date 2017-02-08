@@ -36,42 +36,27 @@ src="gameplay.webm">
 
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 1</h2>
- 	<p>What is the mood?<br>
-	
-		&nbsp;&nbsp;&nbsp;&nbsp;"Dark and spooky."<br>
-	Is everything comfortably visible? <br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"Yes the room is in view, mountains behind but nothing interesting to &nbsp;&nbsp;&nbsp;&nbsp;see there."<br>
-	Do you feel the appropriate size? <br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"Seems like a fantasy place so I’m not sure what’s appropriate, I feel &nbsp;&nbsp;&nbsp;&nbsp;a little shorter than 
-		&nbsp;&nbsp;&nbsp;&nbsp;What I am. " <br> 
-	Is there anything distracting from the orbs? <br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"Yes some walls not quite together, some flickering in the corners, &nbsp;&nbsp;&nbsp;&nbsp;and it seems overall a 	
-		a bit too dark." <br><br></p>
-	<p>Made multiple lighting and geometric adjustments to adress users concer. </p>
+<p>What is the mood?<br>&nbsp;&nbsp;&nbsp;&nbsp;"Dark and spooky."<br>	Is everything comfortably visible? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Yes the room is in view, mountains behind but nothing interesting to &nbsp;&nbsp;&nbsp;&nbsp;see there."<br>
+Do you feel the appropriate size? <br>&nbsp;&nbsp;&nbsp;&nbsp;"Seems like a fantasy place so I’m not sure what’s appropriate, I feel &nbsp;&nbsp;&nbsp;&nbsp;a little shorter than&nbsp;&nbsp;&nbsp;&nbsp;What I am. " <br>Is there anything distracting from the orbs? <br>
+&nbsp;&nbsp;&nbsp;&nbsp;"Yes some walls not quite together, some flickering in the corners, &nbsp;&nbsp;&nbsp;&nbsp;and it seems overall a bit too dark." <br><br></p><p>Made multiple lighting and geometric adjustments to adress users concer. </p>
 	
 
 
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 2</h2>
-	<p>What do you think will happen if you click the button?<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"The game will start."<br>
-		Comments or suggestions reguarding the menus?<br>
-&nbsp;&nbsp;&nbsp;&nbsp;User feels the menus are easy to understand, but is a little confused about where to look to click the button, added the GVR reticle and the problem is solved.  </p>
+<p>What do you think will happen if you click the button?<br>&nbsp;&nbsp;&nbsp;&nbsp;"The game will start."<br>
+Comments or suggestions reguarding the menus?<br>&nbsp;&nbsp;&nbsp;&nbsp;User feels the menus are easy to understand, but is a little confused about where to look to click the button, added the GVR reticle and the problem is solved.  </p>
 
 
 
 
 
 <h2>&nbsp;&nbsp;&nbsp;&nbsp;User Test 3</h2>
-	<p>	Can you describe the movement?<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"I just zipped into the room."<br>
-	Did the movement cause any discomfort?<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"It made me slightly dizzy for a second."<br>
-	Would you be more comfortable with it slower?<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"No, I like that speed, it was fun." <br>
-	Do you think extended exposure to that movement could make you sick?<br>
-		&nbsp;&nbsp;&nbsp;&nbsp;"I don’t think so, I just didn’t expect it at first." <br><br>
-	<p>Adjusted speed moving from menu into puzzle.<p/>
+<p>Can you describe the movement?<br>&nbsp;&nbsp;&nbsp;&nbsp;"I just zipped into the room."<br>
+Did the movement cause any discomfort?<br>&nbsp;&nbsp;&nbsp;&nbsp;"It made me slightly dizzy for a second."<br>
+Would you be more comfortable with it slower?<br>&nbsp;&nbsp;&nbsp;&nbsp;"No, I like that speed, it was fun." <br>
+Do you think extended exposure to that movement could make you sick?<br>&nbsp;&nbsp;&nbsp;&nbsp;"I don’t think so, I just didn’t expect it at first." <br><br><p>Adjusted speed moving from menu into puzzle.<p/>
 
 
 
